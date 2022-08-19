@@ -1,0 +1,15 @@
+div {
+    color: red;
+    font-family: Arial;
+    font-size: 24pt;
+}
+.info {
+    color: blue;
+    font-family: Arial;
+    font-size: 24pt;
+} /*.classname is a class*/
+#unique {
+    color: rgb(47, 47, 104);
+    font-family: Arial;
+    font-size: 24pt;
+}/*#idname is an id*/
