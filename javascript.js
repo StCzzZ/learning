@@ -14,10 +14,10 @@ reset.addEventListener("click", () => {
 
 
 
-const button = document.getElementById("button");
-button.addEventListener("click", () => {
-    alert("You clicked the button!")
-}) ;
+// const button = document.getElementById("button");
+// button.addEventListener("click", () => {
+//     alert("You clicked the button!")
+// }) ;
 
 
 
